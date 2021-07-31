@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border-bottom:1px solid #cececf;
+}
+.h85{
+    height: 85px !important;
+}
+.header .header_wap{
+    overflow: hidden;
+}
+.clera{
+    zoom: 1;
+}
+.main{
+    /* display: block;
+    clear: both; */
+    width: 80% !important;
+    /* background: transparent;
+    position: relative; */
+}
+.header .logo{
+    width: 160px;
+    margin-top: 15px;
+}
+.fl{
+    float: left;
+}
+.header .logo h1 img{
+    height: 50px;
+   margin-left: 280px;
+}
+img{
+    display: inline-block;
+    border: none;
+    vertical-align: middle;
+}
+.daohang a{
+    color: black;
+    text-decoration: none;
+    padding-left: 40px;
+}
+a:hover{
+    color: red;
+}
+.daohang {
+    margin-top: 10px;
+    text-align: center;
+    overflow: hidden;
+}
+.sousuo{
+    float: right;
+    overflow: hidden;
+}
+.sousuo img{
+    margin-bottom: 28px;
+    width: 23px;
+    height: 25px;
+    padding-right: 30px;
+}
+.zhuce{
+    float: right;
+    width: 60px;
+    height: 25px;
+    border: 2px solid rgb(245, 111, 111);
+    color: rgb(245, 111, 111);
+    background-color: #fff;
+    border-radius: 3px;
+}
+
